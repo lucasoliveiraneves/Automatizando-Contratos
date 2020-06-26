@@ -1,0 +1,13 @@
+B:\Projetos .NET\Automatizando-Contratos\Automatizando-Contratos\obj\Debug\netcoreapp3.1\Automatizando-Contratos.csprojAssemblyReference.cache
+B:\Projetos .NET\Automatizando-Contratos\Automatizando-Contratos\obj\Debug\netcoreapp3.1\Automatizando-Contratos.AssemblyInfoInputs.cache
+B:\Projetos .NET\Automatizando-Contratos\Automatizando-Contratos\obj\Debug\netcoreapp3.1\Automatizando-Contratos.AssemblyInfo.cs
+B:\Projetos .NET\Automatizando-Contratos\Automatizando-Contratos\obj\Debug\netcoreapp3.1\Automatizando-Contratos.csproj.CoreCompileInputs.cache
+B:\Projetos .NET\Automatizando-Contratos\Automatizando-Contratos\bin\Debug\netcoreapp3.1\Automatizando-Contratos.exe
+B:\Projetos .NET\Automatizando-Contratos\Automatizando-Contratos\bin\Debug\netcoreapp3.1\Automatizando-Contratos.deps.json
+B:\Projetos .NET\Automatizando-Contratos\Automatizando-Contratos\bin\Debug\netcoreapp3.1\Automatizando-Contratos.runtimeconfig.json
+B:\Projetos .NET\Automatizando-Contratos\Automatizando-Contratos\bin\Debug\netcoreapp3.1\Automatizando-Contratos.runtimeconfig.dev.json
+B:\Projetos .NET\Automatizando-Contratos\Automatizando-Contratos\bin\Debug\netcoreapp3.1\Automatizando-Contratos.dll
+B:\Projetos .NET\Automatizando-Contratos\Automatizando-Contratos\bin\Debug\netcoreapp3.1\Automatizando-Contratos.pdb
+B:\Projetos .NET\Automatizando-Contratos\Automatizando-Contratos\obj\Debug\netcoreapp3.1\Automatizando-Contratos.dll
+B:\Projetos .NET\Automatizando-Contratos\Automatizando-Contratos\obj\Debug\netcoreapp3.1\Automatizando-Contratos.pdb
+B:\Projetos .NET\Automatizando-Contratos\Automatizando-Contratos\obj\Debug\netcoreapp3.1\Automatizando-Contratos.genruntimeconfig.cache
